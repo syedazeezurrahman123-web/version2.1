@@ -1,0 +1,333 @@
+{
+  "jobs": [
+    {
+      "id": "JOB001",
+      "title": "SSC CGL 2024 - Group B & C Posts",
+      "organization": "Staff Selection Commission",
+      "shortName": "SSC",
+      "sector": "SSC",
+      "qualification": "Graduate",
+      "location": "All India",
+      "state": "All States",
+      "vacancies": 7500,
+      "salaryRange": {
+        "min": 25500,
+        "max": 81100,
+        "payLevel": "Pay Level 4-7"
+      },
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "relaxation": "As per government norms"
+      },
+      "education": [
+        "Bachelor's Degree from a recognized university",
+        "Computer proficiency required"
+      ],
+      "experience": "No experience required",
+      "selectionProcess": [
+        "Tier-I Computer Based Examination",
+        "Tier-II Computer Based Examination",
+        "Document Verification",
+        "Medical Examination"
+      ],
+      "applicationFee": {
+        "general": 100,
+        "scSt": 0,
+        "women": 0
+      },
+      "importantDates": {
+        "notificationDate": "2024-06-15",
+        "applicationStart": "2024-06-20",
+        "applicationEnd": "2024-07-20",
+        "examDate": "2024-09-15",
+        "resultDate": "2024-12-01"
+      },
+      "howToApply": "Apply online through ssc.gov.in",
+      "officialWebsite": "https://ssc.gov.in",
+      "notificationPdf": "/resources/SSC_CGL_2024_Notification.pdf",
+      "description": "Staff Selection Commission invites applications for Combined Graduate Level Examination 2024 for recruitment to various Group B and Group C posts in central government ministries.",
+      "eligibility": [
+        "Indian Citizenship",
+        "Age between 18-32 years",
+        "Graduate degree from recognized university"
+      ],
+      "tags": ["graduate", "government", "pan-india", "group-b", "group-c"],
+      "featured": true,
+      "postedDate": "2024-06-15",
+      "status": "active"
+    },
+    {
+      "id": "JOB002",
+      "title": "IBPS PO Recruitment 2024",
+      "organization": "Institute of Banking Personnel Selection",
+      "shortName": "IBPS",
+      "sector": "Banking",
+      "qualification": "Graduate",
+      "location": "All India",
+      "state": "All States",
+      "vacancies": 4455,
+      "salaryRange": {
+        "min": 36000,
+        "max": 63840,
+        "payLevel": "Scale I"
+      },
+      "ageLimit": {
+        "min": 20,
+        "max": 30,
+        "relaxation": "SC/ST: 5 years, OBC: 3 years"
+      },
+      "education": [
+        "Degree (Graduation) in any discipline from a University recognized by the Govt. Of India"
+      ],
+      "experience": "Fresher eligible",
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview"
+      ],
+      "applicationFee": {
+        "general": 850,
+        "scSt": 175,
+        "women": 850
+      },
+      "importantDates": {
+        "notificationDate": "2024-07-01",
+        "applicationStart": "2024-07-05",
+        "applicationEnd": "2024-08-10",
+        "examDate": "2024-10-19",
+        "resultDate": "2024-11-20"
+      },
+      "howToApply": "Apply online through ibps.in",
+      "officialWebsite": "https://ibps.in",
+      "notificationPdf": "/resources/IBPS_PO_2024.pdf",
+      "description": "Recruitment for Probationary Officers/ Management Trainees in Participating Banks.",
+      "eligibility": [
+        "Graduate Degree",
+        "Age 20-30 years"
+      ],
+      "tags": ["banking", "ibps", "po", "graduate"],
+      "featured": true,
+      "postedDate": "2024-07-01",
+      "status": "active"
+    },
+    {
+      "id": "JOB003",
+      "title": "RRB NTPC Undergraduate & Graduate Posts 2024",
+      "organization": "Railway Recruitment Boards",
+      "shortName": "RRB",
+      "sector": "Railway",
+      "qualification": "12th",
+      "location": "All India",
+      "state": "All States",
+      "vacancies": 11558,
+      "salaryRange": {
+        "min": 19900,
+        "max": 35400,
+        "payLevel": "Level 2-5"
+      },
+      "ageLimit": {
+        "min": 18,
+        "max": 33,
+        "relaxation": "3 years for OBC, 5 years for SC/ST"
+      },
+      "education": [
+        "12th Pass or equivalent for Undergraduate posts",
+        "Degree for Graduate posts"
+      ],
+      "experience": "None required",
+      "selectionProcess": [
+        "1st Stage Computer Based Test (CBT)",
+        "2nd Stage CBT",
+        "Typing Skill Test / Computer Based Aptitude Test",
+        "Document Verification"
+      ],
+      "applicationFee": {
+        "general": 500,
+        "scSt": 250,
+        "women": 250
+      },
+      "importantDates": {
+        "notificationDate": "2024-08-01",
+        "applicationStart": "2024-08-10",
+        "applicationEnd": "2024-09-20",
+        "examDate": "2024-12-10",
+        "resultDate": "2025-02-15"
+      },
+      "howToApply": "Apply through respective RRB regional websites",
+      "officialWebsite": "https://indianrailways.gov.in",
+      "notificationPdf": "/resources/RRB_NTPC_2024.pdf",
+      "description": "RRB Non-Technical Popular Categories recruitment for Junior Clerk, Accounts Clerk, Trains Clerk, Goods Guard, Senior Commercial Clerk etc.",
+      "eligibility": [
+        "12th Pass or Bachelor's Degree",
+        "Age 18-33 years"
+      ],
+      "tags": ["railway", "rrb", "ntpc", "12th", "graduate"],
+      "featured": true,
+      "postedDate": "2024-08-01",
+      "status": "active"
+    },
+    {
+      "id": "JOB004",
+      "title": "UPSC Civil Services Examination 2024",
+      "organization": "Union Public Service Commission",
+      "shortName": "UPSC",
+      "sector": "UPSC",
+      "qualification": "Graduate",
+      "location": "All India",
+      "state": "All States",
+      "vacancies": 1056,
+      "salaryRange": {
+        "min": 56100,
+        "max": 250000,
+        "payLevel": "Pay Level 10+"
+      },
+      "ageLimit": {
+        "min": 21,
+        "max": 32,
+        "relaxation": "SC/ST: 5 years, OBC: 3 years"
+      },
+      "education": [
+        "Degree from any recognised University or equivalent qualification"
+      ],
+      "experience": "Not applicable",
+      "selectionProcess": [
+        "Preliminary Examination (Objective)",
+        "Main Examination (Written)",
+        "Personality Test (Interview)"
+      ],
+      "applicationFee": {
+        "general": 100,
+        "scSt": 0,
+        "women": 0
+      },
+      "importantDates": {
+        "notificationDate": "2024-02-14",
+        "applicationStart": "2024-02-14",
+        "applicationEnd": "2024-03-05",
+        "examDate": "2024-06-16",
+        "resultDate": "2024-07-01"
+      },
+      "howToApply": "Apply online at upsc.gov.in",
+      "officialWebsite": "https://upsc.gov.in",
+      "notificationPdf": "/resources/UPSC_CSE_2024.pdf",
+      "description": "UPSC Civil Services Examination for IAS, IPS, IFS, IRS and other Central Services.",
+      "eligibility": [
+        "Graduate degree",
+        "Age 21-32 years"
+      ],
+      "tags": ["upsc", "ias", "ips", "civil services", "graduate"],
+      "featured": false,
+      "postedDate": "2024-02-14",
+      "status": "active"
+    },
+    {
+      "id": "JOB005",
+      "title": "SSC GD Constable 2024",
+      "organization": "Staff Selection Commission",
+      "shortName": "SSC",
+      "sector": "Defense",
+      "qualification": "10th",
+      "location": "All India",
+      "state": "All States",
+      "vacancies": 26146,
+      "salaryRange": {
+        "min": 21700,
+        "max": 69100,
+        "payLevel": "Pay Level 3"
+      },
+      "ageLimit": {
+        "min": 18,
+        "max": 23,
+        "relaxation": "3 years for OBC, 5 years for SC/ST"
+      },
+      "education": [
+        "Matriculation (10th Class) Pass from a recognized Board/ University"
+      ],
+      "experience": "None required",
+      "selectionProcess": [
+        "Computer Based Examination (CBE)",
+        "Physical Standard Test (PST) / Physical Efficiency Test (PET)",
+        "Medical Examination & Document Verification"
+      ],
+      "applicationFee": {
+        "general": 100,
+        "scSt": 0,
+        "women": 0
+      },
+      "importantDates": {
+        "notificationDate": "2023-11-24",
+        "applicationStart": "2023-11-24",
+        "applicationEnd": "2023-12-31",
+        "examDate": "2024-02-20",
+        "resultDate": "2024-07-10"
+      },
+      "howToApply": "Apply online via ssc.gov.in",
+      "officialWebsite": "https://ssc.gov.in",
+      "notificationPdf": "/resources/SSC_GD_2024.pdf",
+      "description": "Recruitment of Constable (General Duty) in BSF, CISF, CRPF, SSB, ITBP, AR and SSF.",
+      "eligibility": [
+        "10th Pass",
+        "Age 18-23 years"
+      ],
+      "tags": ["10th", "defense", "ssc", "constable"],
+      "featured": false,
+      "postedDate": "2023-11-24",
+      "status": "active"
+    },
+    {
+      "id": "JOB006",
+      "title": "Maharashtra PSC Subordinate Services 2024",
+      "organization": "Maharashtra Public Service Commission",
+      "shortName": "MPSC",
+      "sector": "State PSC",
+      "qualification": "Graduate",
+      "location": "Maharashtra",
+      "state": "Maharashtra",
+      "vacancies": 800,
+      "salaryRange": {
+        "min": 38600,
+        "max": 122800,
+        "payLevel": "S-15"
+      },
+      "ageLimit": {
+        "min": 19,
+        "max": 38,
+        "relaxation": "5 years for reserved categories"
+      },
+      "education": [
+        "Bachelor's degree with proficiency in Marathi"
+      ],
+      "experience": "Not required",
+      "selectionProcess": [
+        "Preliminary Exam",
+        "Main Exam",
+        "Interview / Physical Test"
+      ],
+      "applicationFee": {
+        "general": 394,
+        "scSt": 294,
+        "women": 294
+      },
+      "importantDates": {
+        "notificationDate": "2024-05-10",
+        "applicationStart": "2024-05-15",
+        "applicationEnd": "2024-06-15",
+        "examDate": "2024-11-03",
+        "resultDate": "2025-01-20"
+      },
+      "howToApply": "Apply online at mpsconline.gov.in",
+      "officialWebsite": "https://mpsc.gov.in",
+      "notificationPdf": "/resources/MPSC_2024.pdf",
+      "description": "MPSC Group B Non-Gazetted Officer Recruitment.",
+      "eligibility": [
+        "Graduate",
+        "Maharashtra domicile / Marathi language"
+      ],
+      "tags": ["state psc", "maharashtra", "mpsc", "graduate"],
+      "featured": false,
+      "postedDate": "2024-05-10",
+      "status": "active"
+    }
+  ]
+}

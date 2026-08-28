@@ -8,6 +8,10 @@ export default {
   theme: {
     extend: {
       colors: {
+        'govt-navy': '#1e3a5f',
+        'govt-saffron': '#ff9933',
+        'govt-green': '#138808',
+        'govt-gold': '#c9a227',
         primary: {
           50: '#eff6ff',
           100: '#dbeafe',
@@ -20,10 +24,6 @@ export default {
           800: '#1e40af',
           900: '#1e3a8a',
         },
-        saffron: '#FF9933',
-        navy: '#1E3A5F',
-        'govt-green': '#138808',
-        gold: '#D4AF37',
       },
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],

@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "id": "RES001",
+      "title": "SSC CGL 2024 Official Syllabus",
+      "type": "syllabus",
+      "category": "SSC",
+      "description": "Complete syllabus for Tier-I and Tier-II examinations covering Quant, Reasoning, English, and General Awareness.",
+      "fileName": "SSC_CGL_2024_Syllabus.pdf",
+      "filePath": "/downloads/SSC_CGL_2024_Syllabus.pdf",
+      "fileSize": "2.5 MB",
+      "uploadDate": "2024-06-15",
+      "downloads": 15420,
+      "relatedJobId": "JOB001",
+      "tags": ["syllabus", "ssc", "cgl"]
+    },
+    {
+      "id": "RES002",
+      "title": "SSC CGL Previous Year Papers 2023",
+      "type": "previous-paper",
+      "category": "SSC",
+      "description": "Previous year question papers with verified answer keys for all shifts.",
+      "fileName": "SSC_CGL_2023_Papers.pdf",
+      "filePath": "/downloads/SSC_CGL_2023_Papers.pdf",
+      "fileSize": "8.3 MB",
+      "uploadDate": "2024-01-10",
+      "downloads": 28950,
+      "relatedJobId": "JOB001",
+      "tags": ["previous-papers", "ssc", "cgl", "2023"]
+    },
+    {
+      "id": "RES003",
+      "title": "IBPS PO 2024 Exam Pattern & Mock Test Paper",
+      "type": "mock-test",
+      "category": "Banking",
+      "description": "Sample practice questions with detailed solutions according to latest IBPS pattern.",
+      "fileName": "IBPS_PO_Mock_2024.pdf",
+      "filePath": "/downloads/IBPS_PO_Mock_2024.pdf",
+      "fileSize": "3.1 MB",
+      "uploadDate": "2024-07-10",
+      "downloads": 12100,
+      "relatedJobId": "JOB002",
+      "tags": ["banking", "ibps", "mock-test"]
+    },
+    {
+      "id": "RES004",
+      "title": "RRB NTPC Study Guide & General Science PDF",
+      "type": "study-material",
+      "category": "Railway",
+      "description": "Comprehensive general science notes for RRB CBT 1 and CBT 2.",
+      "fileName": "RRB_NTPC_General_Science.pdf",
+      "filePath": "/downloads/RRB_NTPC_General_Science.pdf",
+      "fileSize": "14.2 MB",
+      "uploadDate": "2024-08-15",
+      "downloads": 18400,
+      "relatedJobId": "JOB003",
+      "tags": ["railway", "rrb", "study-material"]
+    }
+  ]
+}
